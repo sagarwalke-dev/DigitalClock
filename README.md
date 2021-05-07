@@ -5,11 +5,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 Setup project in your local:
+
 Step 1: Clone repository 
-### 'git clone https://github.com/sagarwalke-dev/DigitalClock.git'
+### `git clone https://github.com/sagarwalke-dev/DigitalClock.git`
 
 Step 2: Install dependencies 
-### 'npm install'
+### `npm install`
 
 Step 3: Runs the app in the development mode
 ### `npm start`
