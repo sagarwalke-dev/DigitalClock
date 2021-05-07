@@ -1,7 +1,15 @@
 import React, { useState } from "react";
 import "./index.css";
 
-const daysInWeek = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"];
+const daysInWeek = [
+  "Sunday",
+  "Monday",
+  "Tuesday",
+  "Wednesday",
+  "Thursday",
+  "Friday",
+  "Saturday",
+];
 
 function addZero(i) {
   if (i < 10) {
